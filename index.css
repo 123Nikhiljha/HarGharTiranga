@@ -75,8 +75,9 @@ div{
     transform: translate(-50%,-50%);
     color: #fff;
     font-weight: 700;
-    font-size: 2vh;
-    width: fit-content;
+    font-size: 15px;
+    width: max-content;
+    white-space: normal;
 }
 
 .selfie{
