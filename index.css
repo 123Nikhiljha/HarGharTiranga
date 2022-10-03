@@ -76,6 +76,7 @@ div{
     color: #fff;
     font-weight: 700;
     font-size: 2vh;
+    width: fit-content;
 }
 
 .selfie{
